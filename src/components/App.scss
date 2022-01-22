@@ -1,0 +1,20 @@
+.playground {
+	height: 100%;
+	display: grid;
+	grid-template-rows: min-content min-content 1fr;
+}
+
+.editors {
+	display: grid;
+	grid-template-columns: repeat(3, 1fr);
+	gap: 2rem;
+}
+
+.seperator {
+	height: 1rem;
+	background-color: #060606;
+	border-top: 1px solid grey;
+}
+
+.preview {
+}

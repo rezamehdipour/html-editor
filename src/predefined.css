@@ -1,0 +1,64 @@
+/* ——— Display ——— */
+.block {
+	display: block;
+}
+
+/* ——— Flexbox ——— */
+.flex {
+	display: flex;
+}
+.items-center {
+	align-items: center;
+}
+.justify-center {
+	justify-content: center;
+}
+.justify-between {
+	justify-content: space-between;
+}
+.flex-center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+/* ——— Padding ——— */
+.py-3 {
+	padding-top: 3rem;
+	padding-bottom: 3rem;
+}
+
+/* ——— Margin ——— */
+.mx-auto {
+	margin-left: auto;
+	margin-right: auto;
+}
+.mr-05 {
+	margin-right: 0.5rem;
+}
+
+/* ——— Height ——— */
+.h100 {
+	height: 100%;
+}
+
+/* ——— Text-Transform ——— */
+.uppercase {
+	text-transform: uppercase;
+}
+
+/* ——— Text-Align ——— */
+.text-center {
+	text-align: center;
+}
+
+/* ——— Overflow ——— */
+.overflow-y-hidden {
+	overflow-y: hidden;
+}
+.overflow-x-hidden {
+	overflow-x: hidden;
+}
+.overflow-hidden {
+	overflow: hidden;
+}
