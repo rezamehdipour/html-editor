@@ -4,4 +4,4 @@ React 17, Codemirror, Scss
 
 ## Preview
 
-![preview](preview.jpg)
+![preview](preview.png)
