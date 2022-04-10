@@ -1,7 +1,7 @@
-# Live Editor
+# Live Html Editor
 
-React 17, Codemirror, Scss
+React 17, Codemirror, LocalStorage, Scss.
 
-## Preview
+<a href="https://rezamehdipour.ir/html-editor">[ Live Preview ]</a>
 
-![preview](preview.png)
+![preview](preview.jpg)
